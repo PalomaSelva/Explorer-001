@@ -17,6 +17,7 @@
     justify-content: space-between;
     width: 50.5vw;
     height: 97vh;
+    min-height: 600px;
     text-align: center;
 }
 .title{
